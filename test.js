@@ -23,4 +23,4 @@ function UserListTest() {
 
 }
 
-test()
+UserListTest()
